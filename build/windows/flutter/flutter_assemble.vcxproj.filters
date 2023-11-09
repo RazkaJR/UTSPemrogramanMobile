@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\razka\Downloads\Movie-Store-Flutter-main\build\windows\CMakeFiles\9d3b852b66a88472e8fc08740b921617\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\razka\Downloads\Movie-Store-Flutter-main\build\windows\CMakeFiles\a086f1fa012229507d5288c60a4b21ee\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\razka\Downloads\Movie-Store-Flutter-main\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\razka\Downloads\Movie-Store-Flutter-main\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ABEDC52B-FD5A-3B5F-A55D-D1164D7E29B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
